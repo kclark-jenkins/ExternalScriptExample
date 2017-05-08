@@ -1,0 +1,20 @@
+{
+  "deployment": {
+    "title": "Deploying external JavaScript",
+      "children": {
+        "designer": {
+          "children": {
+            "designerWindows": {
+              "title": "Microsoft Windows"
+            },
+            "designerOSX": {
+              "title": "OSX"
+            }
+          }
+        },
+        "ihub": {
+          "title": "InformationHub"
+        }
+      }
+    }
+}
