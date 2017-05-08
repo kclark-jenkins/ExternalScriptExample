@@ -10,7 +10,7 @@ This tutorial will guide you through how to include external JavaScript files in
 3. Download ExternalScriptExample.js
 
     
-          $ wget .....
+          $ wget https://raw.githubusercontent.com/kclark-jenkins/ExternalScriptExample/master/ExternalScriptExample.js
         
 
 4. Make a copy to your desktop
